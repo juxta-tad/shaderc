@@ -3,8 +3,6 @@ shaderc-odin
 
 odin bindings for the [shaderc][shaderc] library.
 
-### Disclaimer
-
 
 Documentation
 -------------
