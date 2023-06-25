@@ -60,4 +60,4 @@ This project is initialized and mainly developed by Matthew Goodman
 ([@antiagainst][me]).
 
 [shaderc]: https://github.com/google/shaderc
-[me]: https://github.com/antiagainst
+[me]: https://github.com/SemiBald
