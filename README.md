@@ -51,7 +51,7 @@ use shaderc library `shaderc_combined` by putting it in libs folder, on windows 
 Contributions
 -------------
 
-This project is licensed under the [Apache 2](LICENSE) license. Please see
+This project is licensed under the [MIT](LICENSE) license. Please see
 [CONTRIBUTING](CONTRIBUTING.md) before contributing.
 
 ### Authors
