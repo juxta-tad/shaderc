@@ -7,7 +7,7 @@ odin bindings for the [shaderc][shaderc] library.
 Documentation
 -------------
 
-shaderc provides the [`Compiler`][doc-compiler] interface to compile GLSL/HLSL
+shaderc provides the compiler interface to compile GLSL/HLSL
 source code into SPIR-V binary modules or assembly code. It can also assemble
 SPIR-V assembly into binary module. 
 Example
@@ -60,7 +60,4 @@ This project is initialized and mainly developed by Matthew Goodman
 ([@antiagainst][me]).
 
 [shaderc]: https://github.com/google/shaderc
-[doc-compiler]: https://docs.rs/shaderc/0.7/shaderc/struct.Compiler.html
-[doc-options]: https://docs.rs/shaderc/0.7/shaderc/struct.CompileOptions.html
-[doc-artifact]: https://docs.rs/shaderc/0.7/shaderc/struct.CompilationArtifact.html
 [me]: https://github.com/antiagainst
