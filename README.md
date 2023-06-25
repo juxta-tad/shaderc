@@ -46,7 +46,7 @@ You may be able to install it directly on some Linux distro's using the package
 manager. The C++ shaderc project provides [artifacts
 downloads](https://github.com/google/shaderc#downloads).
 
-use shaderc library `shaderc_combined` by putting it in libs folder, on windows it should be `shaderc_combined.lib` on windows `shaderc_combined.a`
+use shaderc library `shaderc_combined` by putting it in libs folder, on windows it should be `shaderc_combined.lib` on linux `shaderc_combined.a`
 
 Contributions
 -------------
