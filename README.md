@@ -1,9 +1,6 @@
 shaderc-odin
 ==========
 
-[![Version](https://img.shields.io/crates/v/shaderc.svg)](https://crates.io/crates/shaderc)
-[![Documentation](https://docs.rs/shaderc/badge.svg)](https://docs.rs/shaderc)
-
 odin bindings for the [shaderc][shaderc] library.
 
 ### Disclaimer
