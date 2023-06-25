@@ -60,4 +60,5 @@ This project is initialized and mainly developed by Matthew Goodman
 ([@antiagainst][me]).
 
 [shaderc]: https://github.com/google/shaderc
-[me]: https://github.com/SemiBald
+[me]: https://github.com/juxta-tad
+
