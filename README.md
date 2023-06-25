@@ -9,14 +9,7 @@ Documentation
 
 shaderc provides the [`Compiler`][doc-compiler] interface to compile GLSL/HLSL
 source code into SPIR-V binary modules or assembly code. It can also assemble
-SPIR-V assembly into binary module. Default compilation behavior can be
-adjusted using [`CompileOptions`][doc-options]. Successful results are kept in
-[`CompilationArtifact`][doc-artifact]s.
-
-Please see
-[![Documentation](https://docs.rs/shaderc/badge.svg)](https://docs.rs/shaderc)
-for detailed documentation.
-
+SPIR-V assembly into binary module. 
 Example
 -------
 
