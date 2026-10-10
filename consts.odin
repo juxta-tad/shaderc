@@ -208,11 +208,20 @@ envVersion :: enum i32 {
     Vulkan1_1 = (1 << 22) | (1 << 12),
     Vulkan1_2 = (1 << 22) | (2 << 12),
     Vulkan1_3 = (1 << 22) | (3 << 12),
+    Vulkan1_4 = (1 << 22) | (4 << 12), 
     Opengl4_5 = 450,
     Webgpu,
 };
 
+
 spirvVersion :: enum i32 {
+    Spv1_0 = 0x10000,
+    Spv1_1 = 0x10100,
+    Spv1_2 = 0x10200,
+    Spv1_3 = 0x10300,
+    Spv1_4 = 0x10400,
+    Spv1_5 = 0x10500,
+    Spv1_6 = 0x10600, 
 };
 
 compilationStatus :: enum i32 {

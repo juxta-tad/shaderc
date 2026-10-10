@@ -23,6 +23,10 @@ when ODIN_OS == .Windows
       "./libs/shaderc_combined.lib",
   }
 }
+else when ODIN_OS == .Linux 
+{
+  foreign import libshaderc {"system:libshaderc_shared.so"} //must have package installed in system libs via a package manager or etc.
+}
 
 @(default_calling_convention = "c")
 @(link_prefix = "shaderc_")
